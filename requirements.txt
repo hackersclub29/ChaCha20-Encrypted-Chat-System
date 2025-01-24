@@ -1,0 +1,6 @@
+requests
+pyreadline  # Only for Windows
+pgpy
+pycryptodome
+colorama
+standard-imghdr
